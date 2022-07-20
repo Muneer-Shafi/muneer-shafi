@@ -5,7 +5,7 @@
 Hi, I am Muneer Shafi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 <p>
-I’m Muneer and i am FullStack web Developer. It's been 2 years, I’m working as web developer.i have developed many website.
+A FullStack web Developer. It's been 2 years, I’m working as web developer.i have developed many website.
 I have done Masters in  Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 </p>
@@ -62,7 +62,7 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 
 ### Language :
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Php](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
