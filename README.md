@@ -62,7 +62,6 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 
 ### Language :
 
-![Php](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -75,7 +74,7 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zahidmuneer111&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidmuneer111&theme=tokyonight" />
 </p>
 
 <br>
