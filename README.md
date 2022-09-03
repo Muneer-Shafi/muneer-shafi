@@ -66,12 +66,7 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-
-
 <p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zahidmuneer111&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidmuneer111&theme=tokyonight" />
 </p>
 
 <br>
