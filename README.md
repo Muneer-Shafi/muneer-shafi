@@ -29,9 +29,6 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
   <a href="mailto:zmzahidmuneer@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/zahidmuneer111">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
 </p>
 
 <h3> Technologies & Framework </h3>
@@ -80,7 +77,6 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 <br>
 
 
------
+
 Credits: [Muneer shafi](https://github.com/zahidmuneer111)
 
-Last Edited on: 30/11/2021
