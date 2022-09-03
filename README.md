@@ -2,7 +2,7 @@
   <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="200"/>
 </p>
 <h1>
-Hi, I am Muneer Shafi! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+Hi, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 <p>
 A FullStack web Developer. It's been 2 years, I’m working as web developer.i have developed many website.
