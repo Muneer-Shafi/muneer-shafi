@@ -56,7 +56,7 @@ I have done Masters in  Computer Science. I am a tech enthusiast. I am always op
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
