@@ -3,7 +3,7 @@
 Hi, Great to see you here! 
 </h1>
 <p>
-It's been 4+ years, I’m working as full stack developer.
+It's been 5+ years, I’m working as full stack developer.
 
 I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -27,7 +27,6 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
 
 <h3> Technologies & Framework </h3>
 <div align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <code> <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code>
