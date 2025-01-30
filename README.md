@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/divyanshojha99/PICBOX/blob/main/red-cute-king-teddy-bear-37-toyswala-original-imafa2y6upbg7zhz.jpeg" height="200"/>
-</p>
+
 <h1>
 Hi, Great to see you here! 
 </h1>
