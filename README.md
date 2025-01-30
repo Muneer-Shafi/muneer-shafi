@@ -1,28 +1,23 @@
 
-<h1>
-Hi, Great to see you here! 
-</h1>
+<h1>Hi, Great to see you here! </h1>
 <p>
-It's been 5+ years, I’m working as full stack developer.
-
-I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
+  It's been 5+ years, I’m working as full stack developer.
+  I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 </p>
 <h4>Follow On</h4>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/muneer-shafi-618093190/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
+    </a>
   <a href="https://twitter.com/zahid__muneer">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  </a>
   <a href="https://www.instagram.com/muneer__shafi/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  </a>
   <a href="mailto:zmzahidmuneer@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  </a>
 </p>
 
 <h3> Technologies & Framework </h3>
