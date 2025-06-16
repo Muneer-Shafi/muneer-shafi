@@ -10,7 +10,7 @@ Find out more about me and feel free to connect with me here
 <p align="center">
   <a href="https://www.linkedin.com/in/muneer-shafi-618093190/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a>
+  </a>
   <a href="https://twitter.com/zahid__muneer">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a>
