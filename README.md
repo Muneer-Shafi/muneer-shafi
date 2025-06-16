@@ -1,8 +1,10 @@
 
 <h1>Hi, Great to see you here! </h1>
 <p>
-  It's been 5+ years, I’m working as full stack developer.
-  I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+  I’m a full stack developer with over 5 years of experience, passionate about building scalable software and solving real-world problems through technology. A true tech enthusiast,
+  I’m always open to collaborating on innovative and disruptive ideas. 
+  <b>I particularly enjoy diving into legacy codebases—understanding, refactoring, and modernizing them is something I thrive on.</b>
+Find out more about me and feel free to connect with me here
 </p>
 <h4>Follow On</h4>
 <p align="center">
